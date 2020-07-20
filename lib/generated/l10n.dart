@@ -33,11 +33,21 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `You have pushed the button this many times:`
+  /// `Kaç defa tıkladın ingilizce:`
   String get pushedMessage {
     return Intl.message(
-      'You have pushed the button this many times:',
+      'Kaç defa tıkladın ingilizce:',
       name: 'pushedMessage',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Demo Entrance Page`
+  String get flutterDemoHomePage {
+    return Intl.message(
+      'Demo Entrance Page',
+      name: 'flutterDemoHomePage',
       desc: '',
       args: [],
     );

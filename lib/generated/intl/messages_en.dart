@@ -21,6 +21,7 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
-    "pushedMessage" : MessageLookupByLibrary.simpleMessage("You have pushed the button this many times:")
+    "flutterDemoHomePage" : MessageLookupByLibrary.simpleMessage("Demo Entrance Page"),
+    "pushedMessage" : MessageLookupByLibrary.simpleMessage("Kaç defa tıkladın ingilizce:")
   };
 }
