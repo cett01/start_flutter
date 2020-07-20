@@ -1,16 +1,34 @@
-# insta_tracker
+# Insta Tracker
 
-A new Flutter application about instagram Tracker
+Insta Tracker is a cross-platform mobile application for Instagram users writen by `Flutter ` toolkit and `Dart` language.
 
-## Getting Started
+## Installation
+Jetbrains kullanıcıları şu pluginleri indirmesini öneririm.
 
-This project is a starting point for a Flutter application.
+- [Flutter Plugin](https://plugins.jetbrains.com/plugin/9212-flutter/ )
+- [Dart Plugin](https://plugins.jetbrains.com/plugin/6351-dart/ )
+- [Flutter Intl Plugin](https://plugins.jetbrains.com/plugin/13666-flutter-intl/ )
+- [Rainbow Bracket](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets/ )
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Pull project.  Make sure Flutter's path is attached to System Path. So, on terminal, `flutter` command does not cause problems. Run on your terminal these commands:
+```dart
+flutter channel stable
+flutter doctor
+flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We currently used `1.17.5` on `stable` channel.
+
+
+## Task List
+- [x] Proje Başlangıcı ve kullanılabilecek paketlerin kurulumu yapıldı.
+- [] Buralara yapılacak işleri yazabilirsin
+- [] Buralara yapılacak işleri yazabilirsin
+- [] Buralara yapılacak işleri yazabilirsin
+## Contributing
+iletişim için:  
+`codebuilder.tr@gmail.com`
+
+## License
+Ne lisansı file yazdığımızı bilmiyorum. Sen belirlesen iyi olur.
