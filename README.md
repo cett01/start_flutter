@@ -1,6 +1,6 @@
-# Insta Tracker
+# Project Name
 
-Insta Tracker is a cross-platform mobile application for Instagram users writen by `Flutter ` toolkit and `Dart` language.
+Project Name is a cross-platform mobile application for Instagram users writen by `Flutter ` toolkit and `Dart` language.
 
 ## Installation
 Jetbrains kullanıcıları şu pluginleri indirmesini öneririm.
@@ -24,11 +24,9 @@ We currently used `1.17.5` on `stable` channel.
 ## Task List
 - [x] Proje Başlangıcı ve kullanılabilecek paketlerin kurulumu yapıldı.
 - [] Buralara yapılacak işleri yazabilirsin
-- [] Buralara yapılacak işleri yazabilirsin
-- [] Buralara yapılacak işleri yazabilirsin
+
 ## Contributing
 iletişim için:  
 `codebuilder.tr@gmail.com`
 
 ## License
-Ne lisansı file yazdığımızı bilmiyorum. Sen belirlesen iyi olur.
